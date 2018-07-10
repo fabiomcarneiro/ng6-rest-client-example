@@ -1,4 +1,8 @@
-# Ng6
+#Angular 6 Rest API Client Example
+
+![Example](https://raw.githubusercontent.com/fabiomcarneiro/ng6/master/users_page.png)
+
+# Built with Ng6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
